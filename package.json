@@ -1,6 +1,6 @@
 {
   "name": "rightpad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String right pad",
   "main": "index.js",
   "scripts": {
