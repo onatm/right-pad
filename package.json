@@ -1,0 +1,25 @@
+{
+  "name": "rightpad",
+  "version": "1.0.0",
+  "description": "String right pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "devDependencies": {
+    "tape": "*"
+  },
+  "keywords": [
+    "rightpad",
+    "right",
+    "pad",
+    "padding",
+    "string"
+  ],
+  "repository": {
+    "url": "git@github.com:onatm/right-pad.git",
+    "type": "git"
+  },
+  "author": "onatm",
+  "license": "MIT"
+}
